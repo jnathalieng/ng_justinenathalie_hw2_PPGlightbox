@@ -1,4 +1,4 @@
-# ng_justinenathalie_hw4_PPGlightbox
+# ng_justinenathalie_hw2_PPGlightbox
 
 The Powerpuff Girls
 
@@ -43,5 +43,35 @@ Though far from a capable leader, the Mayor deeply cares for Townsville and freq
 
 
 Dive into this super-powered adventure, bringing each lovable hero to life with every click, and experience a world filled with vibrant, delightful surprises, and heroic interactions—just like joining forces with the Powerpuff Girls on an exciting mission to keep Townsville safe, stylish, and full of fun!
+
+## Installation
+
+No Installation required.
+
+TODO: Describe the installation process
+
+## Usage
+
+To use, open index.html in the browser of your choice.
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History
+
+TODO: Write history
+
+## Credits
+
+Lastname_Firstname
+
+## License
+
+TODO: Write license
 
 
