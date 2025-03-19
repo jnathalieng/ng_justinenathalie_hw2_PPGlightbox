@@ -1,13 +1,13 @@
-# ng_justinenathalie_hw4_lightbox
+# ng_justinenathalie_hw4_PPGlightbox
+
+The Powerpuff Girls
 
 I’ve built a lightbox project that’s packed with sugar, spice, and everything nice! Inspired by the Powerpuff Girls, this interactive design lets you click, hover, and uncover each character's unique charm — just like saving Townsville one click at a time!
 
 Meet the Characters 
 
 Blossom - The Leader 
-
 Blossom is the intelligent and confident leader of the Powerpuff Girls. Known for her strategic thinking and calm demeanor, she often steps in as the peacemaker during her sisters' frequent squabbles, especially with Buttercup. Blossom’s special superpower is her impressive 'Ice Breath,' which she first discovered in the episode 'Ice Sore.' Interestingly, she also demonstrated fire-breathing abilities in the same episode. Despite her leadership skills, Blossom has a deep fear of failure, particularly when it comes to school tests, as shown in 'Power-Noia.' With her strong will and natural leadership, Blossom is a key figure in maintaining peace in Townsville.
-
 
 Bubbles - The Sweetheart
 Bubbles is the adorable yet surprisingly powerful member of the Powerpuff Girls. With her signature blonde pigtails, sparkling blue eyes, and a charming blue dress, she’s often seen as the cutest of the trio. Despite her sweet and innocent appearance, Bubbles is secretly the toughest fighter, surprising both friends and foes with her strength. Her fierce side was revealed when she single-handedly defeated Mojo Jojo in a fit of rage during the episode 'Bubblevicious,' earning her a reputation as the most feared by the notorious villain.
@@ -31,25 +31,17 @@ Professor Utonium is known for his caring and protective nature, always guiding 
 In addition to his nurturing personality, Professor Utonium has demonstrated remarkable bravery, occasionally stepping in to help the girls defend Townsville. His deep bond with the Powerpuff Girls highlights his dedication not only as their creator but also as a loving father who wants the best for his extraordinary daughters.
 
 Queen - The Mysterious One
-
 Queen Morbucks is a wealthy, spoiled, and self-absorbed antagonist in the Powerpuff Girls universe. With her extravagant attire, adorned with jewels and a golden crown, Queen sees herself as superior to others, often using her vast wealth to manipulate situations in her favor.
 Obsessed with power and popularity, Queen Morbucks frequently schemes to outshine the Powerpuff Girls, despite her lack of genuine superpowers. Her desire to become one of the girls drives her to create high-tech battle suits and gadgets, giving her artificial strength to challenge the trio. However, her selfishness and arrogance often result in her plans backfiring.
 Despite her bratty and demanding nature, Queen Morbucks occasionally reveals a vulnerable side, showing that her obsession with status and power stems from a deep desire for acceptance and belonging. This blend of insecurity and overconfidence makes her a complex yet memorable foe in the Powerpuff Girls' world.
 Driven by greed, envy, and an inflated sense of self-importance, Queen Morbucks stands as a persistent rival, proving that money can’t always buy victory — or friendship
 
 Mayor of Townsville - with a big love for Pickles
-
 The Mayor of Townsville is the quirky and often clueless yet lovable leader of the city. With his signature monocle, bushy white mustache, and oversized top hat, the Mayor is easily recognizable — though his limited leadership skills often leave him heavily reliant on Miss Bellum and the Powerpuff Girls to keep Townsville safe.
 Despite holding a position of power, the Mayor is known for his childlike personality, eccentric behavior, and obsession with pickles — a running gag throughout the series. His forgetfulness and tendency to panic often result in comedic moments, yet his heart is always in the right place.
 Though far from a capable leader, the Mayor deeply cares for Townsville and frequently calls on the Powerpuff Girls whenever danger arises. His humorous antics and well-meaning yet often misguided decisions make him a charming and unforgettable character in the Powerpuff Girls universe.
 
 
 Dive into this super-powered adventure, bringing each lovable hero to life with every click, and experience a world filled with vibrant, delightful surprises, and heroic interactions—just like joining forces with the Powerpuff Girls on an exciting mission to keep Townsville safe, stylish, and full of fun!
-
-
-
-
-
-
 
 

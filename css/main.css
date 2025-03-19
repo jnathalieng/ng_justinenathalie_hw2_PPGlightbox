@@ -1,0 +1,211 @@
+.hidden {
+    display: none
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: url('../images/PPGmainbackground.jpeg') no-repeat center/cover, pink;
+    color: white;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+#main-logo {
+    width: 400px;
+    margin: 0 auto;
+} 
+
+.hidden-heading {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+}
+
+#character-nav {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-image: url('../images/PPGCharacterBG.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #675050;
+    background-blend-mode: multiply; 
+}
+
+#characters {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 30px;
+    list-style: none;
+    margin: 0 auto;
+    padding: 40px 0;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+}
+
+#characters li {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+#characters li img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 5px solid #fff;
+    border-radius: 20px;
+    padding: 5px;
+    transition: transform 0.2s ease;
+}
+
+#characters li .hover-img {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#characters li:hover .hover-img {
+    display: block;
+}
+
+#characters li {
+    position: relative;
+}
+
+#characters li::before {
+    content: '✨';
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+#characters li:hover::before {
+    opacity: 1;
+}
+
+#characters li img:hover {
+    border: 5px solid pink;
+    transform: scale(1.1);
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0% { border-color: pink; }
+    50% { border-color: skyblue; }
+    100% { border-color: #4CAF50; }
+}
+
+#characters li a {
+    text-decoration: none;
+}
+
+#characters li span {
+    display: block;
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+/* Instructions */
+
+#instructions {
+    padding: 20px;
+}
+
+#instructions h3 {
+    font-size: 42px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#instructions p {
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.lightbox {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(40, 37, 37);
+    z-index: 1;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left center;
+    display: none;
+}
+
+.lightbox:target {
+    display: block;
+}
+
+ #lightbox1 { 
+    background-image: url('../images/Blossom.jpeg'); 
+}
+
+ #lightbox2 { 
+    background-image: url('../images/Bubbles.jpeg');
+ }
+
+ #lightbox3 { 
+    background-image: url('../images/Buttercup.jpeg'); 
+}
+
+ #lightbox4 { 
+    background-image: url('../images/MojoLB.jpeg'); 
+}
+
+ #lightbox5 { 
+    background-image: url('../images/ProfLB.jpeg'); 
+}
+
+#lightbox6 { 
+    background-image: url('../images/QueenLB.jpeg'); 
+}
+
+#lightbox7 { 
+    background-image: url('../images/MayorLB.jpeg'); 
+}
+
+.lightbox-close {
+    margin-left: 90%;
+    color: #fff;
+    font-size: 45px;
+    text-decoration: none;
+}
+
+.lightbox article {
+    position: absolute;
+    right: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 600px;
+}
+
+#main-footer {
+    text-align: center;
+    background-color: pink;
+    color: #fff;
+    padding: 20px;
+    width: 100%;
+    margin-top: auto;
+}
